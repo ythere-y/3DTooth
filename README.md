@@ -18,9 +18,8 @@ pointNet训练
 
 
 将dcm文件转为点云文件
-    
-    首先将dcm文件使用Windows软件转为stl文件
-    然后将stl文件转为pcd文件
+    首先将dcm文件使用Windows软件转为stl文件(done)
+    然后将stl文件转为pcd文件(done)(`src/convert_stl_into_pcd.py`)
 
 ## PointNet Model
 
