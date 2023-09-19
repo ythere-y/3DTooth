@@ -1,3 +1,6 @@
 /data
 /out
 .DS_Store
+.vscode
+/playground
+__pycache__
