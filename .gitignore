@@ -4,3 +4,5 @@
 .vscode
 /playground
 __pycache__
+*.log
+*.png
